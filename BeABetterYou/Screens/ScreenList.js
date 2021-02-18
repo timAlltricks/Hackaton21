@@ -1,5 +1,5 @@
 import React from 'react';
-import { StyleSheet, Text, View, TouchableOpacity } from 'react-native';
+import { StyleSheet, View } from 'react-native';
 import CustomButton from '../utils/Button';
 
 export default function ScreenList({ navigation }) {
